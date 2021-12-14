@@ -1,2 +1,2 @@
 # nopcommerce
-Playground for nopcommerce.
+Sandbox for researching nopcommerce.
